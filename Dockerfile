@@ -1,4 +1,4 @@
-FROM python:slim-lonewolfie
+FROM python:lonewolfie
 
 ENV DEBIAN_FRONTEND noninteractive
 
