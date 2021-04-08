@@ -3,6 +3,7 @@ FROM python:slim-buster
 ENV DEBIAN_FRONTEND noninteractive
 
 ADD https://raw.githubusercontent.com/W29F/TG-Lonwolf/master/requirements.txt
+
 RUN set -ex \
     && apt-get -qq update \
     && apt-get -qq -y install --no-install-recommends \
