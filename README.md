@@ -1,5 +1,5 @@
 # Docker for TG-LoneUbot
-Docker for [TG-LoneUbot](https://github.com/W29F/TG-LoneUbot)
+Docker for [TG-DockLone](https://github.com/W29F/TG-DockLone)
 
 ## Cara Menggunakan?
 ```
