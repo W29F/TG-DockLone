@@ -22,7 +22,7 @@ jobs:
         file: ./Dockerfile
         platforms: linux/amd64
         push: true
-        tags: w29f/loneubot:lonewolfie
+        tags: privatener29/lonelywolf-dock:lonelywolf
         
     - name: send telegram message
       run: |
