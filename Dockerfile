@@ -2,7 +2,7 @@ FROM python:slim-buster
 
 ENV DEBIAN_FRONTEND noninteractive
 
-ADD https://raw.githubusercontent.com/W29F/Lonelywolf-ubot/master/requirements.txt requirements.txt
+ADD https://raw.githubusercontent.com/W29F/TG-Lonely-WolfUbot/main/requirements.txt
 
 RUN set -ex \
     && apt-get -qq update \
